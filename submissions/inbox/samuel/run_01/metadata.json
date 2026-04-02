@@ -1,0 +1,8 @@
+{
+    "team": "samuel",
+    "run_id": "run_01",
+    "author_type": "human",
+    "model": "GCNConv",
+    "notes": "Stable model with BatchNorm, Gradient clipping and self-loops"
+  }
+  
